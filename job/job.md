@@ -17,3 +17,8 @@
 * https://leetcode.com/
 * https://www.interviewbit.com/
 * https://www.pramp.com/
+
+# Interesting Repo
+* https://github.com/jwasham/google-interview-university
+* https://github.com/ZuzooVn/machine-learning-for-software-engineers
+* [cirosantilli/notes:jobs.md](https://github.com/cirosantilli/notes/blob/master/jobs.md)
