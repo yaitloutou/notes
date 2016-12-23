@@ -13,6 +13,7 @@
 * https://www.quora.com/In-what-order-should-I-do-leetcode-problems-2/answer/Vipin-Sharma-83
 * https://www.reddit.com/r/cscareerquestions/comments/41latg/to_those_that_regularly_practice_on_leetcode_does/
 * https://www.quora.com/How-can-I-become-a-data-scientist-1?redirected_qid=59455
+* https://www.quora.com/How-should-I-start-learning-Python-1/answer/Paul-DeVos?srid=iZ43
 
 # Interview prep
 * https://leetcode.com/
