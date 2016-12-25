@@ -8,3 +8,4 @@
 
 ref:
 * [SO Q: What is a plain English explanation of “Big O” notation?](http://stackoverflow.com/a/487278/2245329)
+* http://bigocheatsheet.com/
