@@ -24,3 +24,6 @@
 * https://github.com/jwasham/google-interview-university
 * https://github.com/ZuzooVn/machine-learning-for-software-engineers
 * [cirosantilli/notes:jobs.md](https://github.com/cirosantilli/notes/blob/master/jobs.md)
+
+# Job platform
+* https://angel.co/
