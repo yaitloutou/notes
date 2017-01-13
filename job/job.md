@@ -27,3 +27,12 @@
 
 # Job platform
 * https://angel.co/
+
+# blog articles/misc
+* [How to Make Money as an Independent Developer](http://wern-ancheta.com/blog/2016/09/19/how-to-make-money-as-a-an-indie-developer/)
+
+## HN thread 
+* [Ask HN: Best passive income method for a solo developer?](https://news.ycombinator.com/item?id=12318449)
+* [Ask HN: What was your best passive income in 2015?](https://news.ycombinator.com/item?id=10726489)
+* https://news.ycombinator.com/item?id=5904316
+
