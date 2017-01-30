@@ -21,7 +21,9 @@
 * https://github.com/cassidoo/getting-a-gig#your-attitude
 
 # Job platform
-* https://angel.co/
+* https://angel.co/ (startup job)
+* https://www.codementor.io (consulting)
+* https://www.airpair.com (consulting)
 
 # Blog articles/misc
 * [How to Make Money as an Independent Developer](http://wern-ancheta.com/blog/2016/09/19/how-to-make-money-as-a-an-indie-developer/)
